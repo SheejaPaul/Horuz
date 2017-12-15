@@ -1,24 +1,17 @@
-![Horuz: The Weather Planner App](https://github.com/SheejaPaul/Horuz/blob/master/Horus.png)
 
-
-[![Build Status](https://travis-ci.org/Alamofire/Alamofire.svg?branch=master)](https://travis-ci.org/Alamofire/Alamofire)
-[![Platform](https://img.shields.io/cocoapods/p/Alamofire.svg?style=flat)](https://alamofire.github.io/Alamofire)
-[![Twitter](https://img.shields.io/badge/twitter-@HoruzSF-blue.svg?style=flat)](http://twitter.com/HoruzSF)
-
+# Horuz: Work In Progress...
 
 The Weather Planner App
 
+# Screenshot:
 
-# Here's a screenshot:
-
+<img width="1127" alt="screen shot 2017-12-14 at 4 04 30 pm" src="https://user-images.githubusercontent.com/31255999/34020336-86a9f89c-e0e8-11e7-9dab-e2b2265d56c4.png">
 
 ## Features
 
-- [x] URL / JSON / plist Parameter Encoding
-- [x] Upload File / Data / Stream / MultipartFormData
-- [x] Network Reachability
-- [x] Comprehensive Unit and Integration Test Coverage
-
+- [x] Allow user to fetch the weather of their current location
+- [x] Schedule the weather based on their daily and trip schedule
+- [x] Used Coredata to store data
 
 # Technologies used:
 
@@ -37,9 +30,7 @@ The Weather Planner App
 - If you **have a feature request**, open an issue.
 - If you **want to contribute**, submit a pull request.
 
-## Credits
 
-Horuz is owned and maintained by the Horuz Software Foundation. You can follow them on Twitter at [@HoruzSF](https://twitter.com/HoruzSF) for project updates and releases.
 
 
 
